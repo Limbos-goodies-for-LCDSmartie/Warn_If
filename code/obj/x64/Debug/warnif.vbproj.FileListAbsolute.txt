@@ -1,0 +1,8 @@
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\bin\x64\Debug\warnif.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\bin\x64\Debug\warnif.pdb
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\bin\x64\Debug\warnif.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\obj\x64\Debug\warnif.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\obj\x64\Debug\warnif.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\obj\x64\Debug\warnif.dll
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\obj\x64\Debug\warnif.xml
+E:\Nextcloud\Development\LCD Smartie Plugins\warnif\warnif\obj\x64\Debug\warnif.pdb
